@@ -1,13 +1,13 @@
 # Common-Network-Security-Threats
 Network security threats are malicious activities or attacks that aim to compromise, damage, or gain unauthorized access to computer networks, systems, or data.
-# Common Network Security Threats
+
 
 ## Overview
 Network security threats are malicious activities that target computer networks, systems, or data. These threats can cause data loss, financial damage, and system disruption. Understanding them is important for building strong cybersecurity defenses.
 
 ---
 
-## Common Network Security Threats (One-Line Definitions)
+## Common Network Security Threats 
 
 ### 1. Malware
 Malicious software designed to damage, disrupt, or gain unauthorized access to systems.
